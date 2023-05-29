@@ -1,0 +1,95 @@
+{
+  "pages": 1,
+  "data": [
+    {
+      "id": 1,
+      "name_of_song": "Bohemian Rhapsody",
+      "number_of_followers": 1000,
+      "dummy_image_url": "https://m.media-amazon.com/images/I/51qFXMrbs4L.jpg",
+      "songs": [
+        {
+          "name": "Bohemian Rhapsody",
+          "url": "https://m.media-amazon.com/images/I/51qFXMrbs4L.jpg",
+          "artist": "Queen"
+        },
+        {
+          "name": "Another One Bites the Dust",
+          "url": "https://m.media-amazon.com/images/I/51qFXMrbs4L.jpg",
+          "artist": "Queen"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name_of_song": "Hotel California",
+      "number_of_followers": 800,
+      "dummy_image_url": "https://live.staticflickr.com/2301/2106557752_bb8f1eed6a_b.jpg",
+      "songs": [
+        {
+          "name": "Hotel California",
+          "url": "https://live.staticflickr.com/2301/2106557752_bb8f1eed6a_b.jpg",
+          "artist": "Eagles"
+        },
+        {
+          "name": "Take It Easy",
+          "url": "https://live.staticflickr.com/2301/2106557752_bb8f1eed6a_b.jpg",
+          "artist": "Eagles"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name_of_song": "Imagine",
+      "number_of_followers": 1200,
+      "dummy_image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Mv49QlbPV-N7KgJJvS4l1fvwMFvyNVfBIw&usqp=CAU",
+      "songs": [
+        {
+          "name": "Imagine",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Mv49QlbPV-N7KgJJvS4l1fvwMFvyNVfBIw&usqp=CAU",
+          "artist": "John Lennon"
+        },
+        {
+          "name": "Jealous Guy",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Mv49QlbPV-N7KgJJvS4l1fvwMFvyNVfBIw&usqp=CAU",
+          "artist": "John Lennon"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name_of_song": "Hey Jude",
+      "number_of_followers": 1500,
+      "dummy_image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMYzr7BFHSRiJx1OB-UALvkrLKnz3OQLhZwLuPSkJO_Ja516O2mTkKLQx9357_ofe1i2Y&usqp=CAU",
+      "songs": [
+        {
+          "name": "Hey Jude",
+          "url": "https://imagenes.heraldo.es/files/image_990_v3/files/fp/uploads/imagenes/2019/09/25/portada-de-abbey-road.r_d.299-177-21438.jpeg",
+          "artist": "The Beatles"
+        },
+        {
+          "name": "Let It Be",
+          "url": "https://imagenes.heraldo.es/files/image_990_v3/files/fp/uploads/imagenes/2019/09/25/portada-de-abbey-road.r_d.299-177-21438.jpeg",
+          "artist": "The Beatles"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name_of_song": "Smells Like Teen Spirit",
+      "number_of_followers": 900,
+      "dummy_image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJlQDaJlWGi4PwLVOd5PkRv_BIU7G8KtTikg&usqp=CAU",
+      "songs": [
+        {
+          "name": "Smells Like Teen Spirit",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJlQDaJlWGi4PwLVOd5PkRv_BIU7G8KtTikg&usqp=CAU",
+          "artist": "Nirvana"
+        },
+        {
+          "name": "Come as You Are",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJlQDaJlWGi4PwLVOd5PkRv_BIU7G8KtTikg&usqp=CAU",
+          "artist": "Nirvana"
+        }
+      ]
+    }
+  ]
+}
